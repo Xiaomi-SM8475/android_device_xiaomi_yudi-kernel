@@ -108,6 +108,7 @@ msm_sysstats.ko
 zsmalloc.ko
 lzo.ko
 lzo-rle.ko
+cpq.ko
 msm_show_resume_irq.ko
 mhi_cntrl_qcom.ko
 mhi.ko
@@ -282,7 +283,6 @@ tz_log.ko
 qce50.ko
 qcedev-mod.ko
 extend_reclaim.ko
-mi_log.ko
 binder_prio.ko
 ipa_fmwk.ko
 usb_bam.ko

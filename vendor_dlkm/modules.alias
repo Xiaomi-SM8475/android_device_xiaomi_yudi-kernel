@@ -6,6 +6,7 @@ alias of:N*T*Csynaptics,dsx-i2c synaptics_dsx
 alias of:N*T*Csynaptics,dsx-i2cC* synaptics_dsx
 alias of:N*T*Cqcom,msm-ext-disp-audio-codec-rx hdmi_dlkm
 alias of:N*T*Cqcom,msm-ext-disp-audio-codec-rxC* hdmi_dlkm
+alias cpq-iosched cpq
 alias of:N*T*Cqcom,llcc-perfmon llcc_perfmon
 alias of:N*T*Cqcom,llcc-perfmonC* llcc_perfmon
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-lahaina phy_qcom_ufs_qmp_v4_lahaina
@@ -449,6 +450,7 @@ alias of:N*T*Cqcom,usb-snps-eusb2-phy phy_msm_snps_eusb2
 alias of:N*T*Cqcom,usb-snps-eusb2-phyC* phy_msm_snps_eusb2
 alias of:N*T*Cqcom,ufs-phy-qmp-v3 phy_qcom_ufs_qmp_v3
 alias of:N*T*Cqcom,ufs-phy-qmp-v3C* phy_qcom_ufs_qmp_v3
+alias rtnl-link-miicmpfilter miicmpfilter
 alias of:N*T*Cqcom,wcn6750 icnss2
 alias of:N*T*Cqcom,wcn6750C* icnss2
 alias of:N*T*Cqcom,icnss icnss2

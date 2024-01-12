@@ -4,6 +4,7 @@ alias of:N*T*Csynaptics,dsx-i2c synaptics_dsx
 alias of:N*T*Csynaptics,dsx-i2cC* synaptics_dsx
 alias of:N*T*Cqcom,dummycc clk_dummy
 alias of:N*T*Cqcom,dummyccC* clk_dummy
+alias cpq-iosched cpq
 alias of:N*T*Cqcom,llcc-perfmon llcc_perfmon
 alias of:N*T*Cqcom,llcc-perfmonC* llcc_perfmon
 alias of:N*T*Cqcom,ufs-phy-qmp-v4-lahaina phy_qcom_ufs_qmp_v4_lahaina

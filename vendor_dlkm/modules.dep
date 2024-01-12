@@ -5,6 +5,7 @@
 /vendor/lib/modules/hyp_core_ctl.ko:
 /vendor/lib/modules/hdmi_dlkm.ko: /vendor/lib/modules/msm_ext_display.ko
 /vendor/lib/modules/cnss_plat_ipc_qmi_svc.ko: /vendor/lib/modules/qmi_helpers.ko
+/vendor/lib/modules/cpq.ko:
 /vendor/lib/modules/repeater.ko:
 /vendor/lib/modules/migt.ko:
 /vendor/lib/modules/soc_sleep_stats.ko:
@@ -99,7 +100,6 @@
 /vendor/lib/modules/mtdoops.ko: /vendor/lib/modules/mtd.ko
 /vendor/lib/modules/qcom_smd.ko:
 /vendor/lib/modules/icc-test.ko:
-/vendor/lib/modules/mi_log.ko:
 /vendor/lib/modules/qmi_helpers.ko:
 /vendor/lib/modules/ehset.ko:
 /vendor/lib/modules/sensors_ssc.ko:
@@ -131,6 +131,7 @@
 /vendor/lib/modules/phy-qcom-ufs-qmp-v3.ko:
 /vendor/lib/modules/rdbg.ko:
 /vendor/lib/modules/mtd_blkdevs.ko: /vendor/lib/modules/mtd.ko
+/vendor/lib/modules/miicmpfilter.ko:
 /vendor/lib/modules/debugcc-waipio.ko:
 /vendor/lib/modules/icnss2.ko: /vendor/lib/modules/qti-adc-tm.ko /vendor/lib/modules/wlan_firmware_service.ko /vendor/lib/modules/qcom_ramdump.ko /vendor/lib/modules/pdr_interface.ko /vendor/lib/modules/qmi_helpers.ko /vendor/lib/modules/rproc_qcom_common.ko /vendor/lib/modules/qcom_smd.ko /vendor/lib/modules/qcom_glink_smem.ko /vendor/lib/modules/qcom_glink.ko
 /vendor/lib/modules/xiaomifp.ko:
